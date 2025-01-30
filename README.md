@@ -1,8 +1,16 @@
-## Hi there, I'm Helder Lucau
+<h1 align="center">Hi 👋 there, I'm Helder Lucau</h1>
 
-<a href="https://github.com/Helder-Lucau">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Helder-Lucau" />
-</a>
-<a href="https://github.com/Helder-Lucau">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Helder-Lucau&layout=compact&langs_count=8&card_width=320" />
-</a>
+- 📍 A frontend web developer from Luanda/Angola
+- 💼 I’m currently working on **Moconnect**
+- ✉️ helderlucau@gmail.com
+
+## ⭐ Skills
+
+- **Languages:** JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Material UI, Bootstrap & Tailwind CSS 
+- **UI/UX:** Figma
+- **Version control:** Git
+- **Project management:** Trello, GitHub Pages & Asana
+- **Other tools:** Blender, Photoshop, After Effects, Illustrator
+
+
