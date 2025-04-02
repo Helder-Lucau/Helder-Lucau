@@ -9,7 +9,7 @@
 - **Languages:** JavaScript, HTML5, CSS3
 - **Frameworks & Libraries:** React, Material UI, Bootstrap & Tailwind CSS 
 - **UI/UX:** Figma
-- **Version control:** Git
+- **Version control:** Git & GitHub
 - **Project management:** Trello, GitHub Pages & Asana
 - **Other tools:** Blender, Photoshop, After Effects, Illustrator
 
