@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 there, I'm Helder Lucau</h1>
 
 - 📍 A frontend web developer from Luanda/Angola
-- 💼 I’m currently working on **Moconnect**
+- 💼 I’m currently working at **Moconnect**
 - ✉️ helderlucau@gmail.com
 
 ## ⭐ Skills
@@ -11,6 +11,6 @@
 - **UI/UX:** Figma
 - **Version control:** Git & GitHub
 - **Project management:** Trello, GitHub Pages & Asana
-- **Other tools:** Blender, Photoshop, After Effects, Illustrator
+- **Beyond code:** Blender, Photoshop, After Effects, Illustrator
 
 
