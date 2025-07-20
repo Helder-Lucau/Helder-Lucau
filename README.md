@@ -10,7 +10,8 @@
 - **Frameworks & Libraries:** React, Material UI, Bootstrap & Tailwind CSS 
 - **UI/UX:** Figma
 - **Version control:** Git & GitHub
-- **Project management:** Trello, GitHub Pages & Asana
-- **Beyond code:** Blender, Photoshop, After Effects, Illustrator
+- **Project management:** Trello, Notion, GitHub Pages & Asana
+- **No-code:** Elementor(WordPress)
+- **Graphic design:** Blender, Photoshop, After Effects, Illustrator
 
 
