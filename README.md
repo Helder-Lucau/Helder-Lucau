@@ -11,7 +11,7 @@
 - **UI/UX:** Figma
 - **Version control:** Git & GitHub
 - **Project management:** Trello, Notion, GitHub Pages & Asana
-- **No-code:** Elementor(WordPress)
+- **No-code:** WordPress (Elementor)
 - **Graphic design:** Blender, Photoshop, After Effects, Illustrator
 
 
