@@ -16,8 +16,4 @@
 - **Graphic design:** Canva, Blender, Photoshop, Illustrator
 
 ## 📫 Let's start creating together
-- **LinkedIn:** <p>
-  <a href="https://www.linkedin.com/in/helderlucau" target="_blank" rel="noopener noreferrer nofollow">
-    Helder Lucau
-  </a>
-</p>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/helderlucau" target="_blank" rel="noopener noreferrer">Helder Lucau</a>
