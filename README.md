@@ -6,14 +6,14 @@
 
 ## ⭐ Skills
 
-- **Languages:** JavaScript, HTML5, CSS3
-- **Frameworks & Libraries:** React, Next.js, Material UI, Bootstrap & Tailwind CSS 
-- **Back-End:** Supabase, PostgreSQL  
+- **Frontend Development:** JavaScript, HTML5, CSS3, React, Next.js
+- **Styling:** CSS3, Tailwind CSS, Bootstrap & Material UI
+- **Backend/Database:** Supabase, PostgreSQL  
 - **UI/UX:** Figma
-- **Version control:** Git & GitHub
-- **Project management:** Trello, Notion, GitHub Pages & Asana
+- **Version Control:** Git & GitHub
+- **Project Management:** Trello, Notion, GitHub Pages & Asana
 - **No-code:** WordPress (Elementor)
-- **Graphic design:** Canva, Blender, Photoshop, Illustrator
+- **Design Tools:** Canva, Blender, Photoshop, Illustrator
 
 ## 📫 Let's start creating together
 - **LinkedIn:** <a href="https://www.linkedin.com/in/helderlucau" target="_blank" rel="noopener noreferrer">Helder Lucau</a>
