@@ -10,7 +10,7 @@
 - **Styling:** CSS3, Tailwind CSS, Bootstrap & Material UI
 - **Backend/Database:** Supabase, PostgreSQL  
 - **UI/UX:** Figma
-- **Version Control:** Git & GitHub
+- **Version Control:** Git
 - **Project Management:** Trello, Notion, GitHub Pages & Asana
 - **No-code:** WordPress (Elementor)
 - **Design Tools:** Canva, Blender, Photoshop, Illustrator
